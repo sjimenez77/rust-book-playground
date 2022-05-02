@@ -1,0 +1,17 @@
+[workspace]
+
+members = [
+  "branches",
+  "communicator",
+  "functions",
+  "guessing_game",
+  "hash_map",
+  "hello_cargo",
+  "ownership",
+  "privacy",
+  "rectangles",
+  "restaurant",
+  "slices",
+  "structs",
+  "variables",
+]

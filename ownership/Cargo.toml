@@ -1,0 +1,6 @@
+[package]
+name = "ownership"
+version = "0.1.0"
+authors = ["Santos Jiménez <santos.jimenez-linares@capgemini.com>"]
+
+[dependencies]
