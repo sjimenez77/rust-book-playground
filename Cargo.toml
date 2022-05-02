@@ -4,6 +4,7 @@ members = [
   "branches",
   "communicator",
   "functions",
+  "generics",
   "guessing_game",
   "hash_map",
   "hello_cargo",
