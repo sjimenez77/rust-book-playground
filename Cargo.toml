@@ -1,6 +1,8 @@
 [workspace]
 
 members = [
+  "aggregator",
+  "aggregator-test",
   "branches",
   "communicator",
   "functions",

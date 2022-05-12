@@ -3,6 +3,17 @@
 version = 3
 
 [[package]]
+name = "aggregator"
+version = "0.1.0"
+
+[[package]]
+name = "aggregator-test"
+version = "0.1.0"
+dependencies = [
+ "aggregator",
+]
+
+[[package]]
 name = "branches"
 version = "0.1.0"
 
